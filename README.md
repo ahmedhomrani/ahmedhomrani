@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ahmedhomrani@outlook.com**
+- 📫 How to reach me **contact.ahmedhomrani@gmail.com**
 
 - ⚡ Fun fact **I think m born to code**
 
