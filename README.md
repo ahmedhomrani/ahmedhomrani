@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Reservi.tn**
 
-- 🌱 I’m currently learning **react and node**
+- 🌱 I’m currently learning **react and nodejs**
 
 - 👨‍💻 All of my projects are available at [ahmedhomrani](ahmedhomrani)
 
