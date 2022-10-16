@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact.ahmedhomrani@gmail.com**
 
-- ⚡ Fun fact **I think m born to code**
+- ⚡ Fun fact **I can't sleep with a bug in my project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
