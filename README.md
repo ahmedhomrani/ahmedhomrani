@@ -1,4 +1,5 @@
-![MasterHead](https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif)
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="image description" align="right" width="400px">
 <h1 align="center">Hi 👋, I'm Ahmed Homrani</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
