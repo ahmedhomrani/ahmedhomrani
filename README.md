@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhomrani&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhomrani" /> </p>
 
-- 🔭 I’m currently working on **Mobile app with flutter**
+- 🔭 I’m currently working on **Internship project**
 
-- 🌱 I’m currently learning **Mobile developpment with Flutter**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [ahmedhomrani](ahmedhomrani)
 
